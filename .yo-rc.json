@@ -1,0 +1,37 @@
+{
+  "generator-jhipster": {
+    "promptValues": {
+      "packageName": "com.koboto.myjhipster",
+      "nativeLanguage": "vi"
+    },
+    "jhipsterVersion": "4.5.6",
+    "baseName": "myHipster",
+    "packageName": "com.koboto.myjhipster",
+    "packageFolder": "com/koboto/myjhipster",
+    "serverPort": "7001",
+    "authenticationType": "jwt",
+    "hibernateCache": "no",
+    "clusteredHttpSession": false,
+    "websocket": false,
+    "databaseType": "cassandra",
+    "devDatabaseType": "cassandra",
+    "prodDatabaseType": "cassandra",
+    "searchEngine": false,
+    "messageBroker": false,
+    "serviceDiscoveryType": "consul",
+    "buildTool": "gradle",
+    "enableSocialSignIn": false,
+    "jwtSecretKey": "4a1994fefaaa4ceba6f1c0ff493eb1f8d682d698",
+    "enableTranslation": true,
+    "applicationType": "microservice",
+    "testFrameworks": [],
+    "jhiPrefix": "jhi",
+    "skipClient": true,
+    "skipUserManagement": true,
+    "nativeLanguage": "vi",
+    "languages": [
+      "vi"
+    ],
+    "clientPackageManager": "yarn"
+  }
+}
